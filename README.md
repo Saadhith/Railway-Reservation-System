@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224220002
+# Name: Aadhith S
+# Date: 30.08.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="937" height="786" alt="image" src="https://github.com/user-attachments/assets/32f9ab20-7ac1-4342-a589-d7d3152e1346" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1247" height="755" alt="image" src="https://github.com/user-attachments/assets/d5eb0a9f-583c-46d6-800a-062eade37837" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1215" height="620" alt="image" src="https://github.com/user-attachments/assets/1469868c-6ee5-4f80-9899-2b50a356501f" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1122" height="555" alt="image" src="https://github.com/user-attachments/assets/35997f32-01b6-4f1a-9be4-5147ea9c68ad" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="766" height="963" alt="image" src="https://github.com/user-attachments/assets/dc58b67e-2a54-478e-86e4-07d1ca6b5d72" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1033" height="742" alt="image" src="https://github.com/user-attachments/assets/6787c588-cc32-4f8d-ab96-657822ab282f" />
 
 
 
